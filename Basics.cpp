@@ -33,6 +33,6 @@ int main()
 {  
 string name; // variable declaration.  
 cout << "Enter your name :" << endl;  
-getline(cin,name); // implementing a getline() function  
+getline(cin,name); // implementing a getline() 
 cout<<"\nHello "<<name;  
 return 0;}  
