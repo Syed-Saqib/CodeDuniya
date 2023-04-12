@@ -1,1 +1,2 @@
-cin>> s1>> s2;
+default:
+        cout<<"Invalid!";
